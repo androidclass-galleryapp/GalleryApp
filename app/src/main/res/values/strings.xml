@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GalleryApp</string>
+    <string name="title_activity_full_image_view">FullImageView</string>
+</resources>
